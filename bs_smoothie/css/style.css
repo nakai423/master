@@ -1,0 +1,9 @@
+div top fluid { text-size-adjust: 10;}
+
+contents1 {
+    background-color: rgb(0, 0, 0);
+}
+
+carousel-item :active{
+    counter-reset: 10000px;
+}
